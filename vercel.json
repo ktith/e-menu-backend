@@ -22,7 +22,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your-app-name.vercel.app",
+        "APP_URL": "https://e-menu-backend.vercel.app/",
         "APP_KEY": "base64:aKI+hj1SQMorjQ5WOkXKdLqLku6QJK8u2TiGdNzx8M8=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
